@@ -31,8 +31,7 @@ If you don't yet know what that means, no worries! Either come back later,
 or read the links below. Basically, it's easy:
 
 
-If you **find a typo**, or a **mistake in the code** - or you **want to add an
-exercise of your own for other students to learn from** - you can suggest
+If you **find a typo**, or a **mistake in the code** - or you **want to add an exercise of your own for other students to learn from** - you can suggest
 these improvements to the original repository.
 
 
